@@ -1,16 +1,41 @@
-## Hi there 👋
+✨ Kwame Amponsem Bremang — CS Student | Python Developer
+Hi, I’m Kwame, a Computer Science student passionate about Python, data, and building practical tools that solve real problems. I enjoy teaching, breaking down concepts, and writing clean, structured code.
 
-<!--
-**itskb12/itskb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Stack
+Languages: Python
 
-Here are some ideas to get you started:
+Tools: Git, GitHub, Jupyter Notebook, Excel, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Concepts: OOP, Algorithms, Data Structures, Automation
+
+📌 Featured Projects
+🔹 Fuel Cost Calculator
+A Python tool that calculates fuel cost based on distance, MPG, and gas price.
+
+
+🔹 Equation Solver
+A Python script that solves linear equations and displays step‑by‑step results.
+
+
+🔹 Python Fundamentals Bootcamp
+Teaching materials I created to help beginners learn Python.
+
+
+📚 What I’m Learning
+Data analysis with Python
+
+Git & GitHub workflows
+
+Object‑oriented programming
+
+🌐 Connect With Me
+GitHub: github.com/itskb12
+
+🧠 About Me
+CS student at Tidewater Community College
+
+Future CMDA transfer student
+
+Passionate about Python, data, and teaching
+
+Building real‑world tools one project at a time
